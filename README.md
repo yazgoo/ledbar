@@ -10,13 +10,21 @@ Préparation
 Couper une moulure électrique sur 15, centimètres.
 Avec un forêt du diamètre des diodes, percez les trous à distance égale
 (environ la taille de la petite broche (cathode) de la diode):
+
 ![](https://raw.github.com/yazgoo/ledbar/master/ledbar_holes.png)
+
 Ensuite, insérez les leds:
+
 ![](https://raw.github.com/yazgoo/ledbar/master/ledbar_one_led.png)
+
 Pliez et soudez les cathodes entre-elles:
+
 ![](https://raw.github.com/yazgoo/ledbar/master/ledbar_leds_linked.png)
+
 Enfin, soudez les résistances aux anodes.
+
 ![](https://raw.github.com/yazgoo/ledbar/master/ledbar_finished.png)
+
 Vous n'avez plus qu'à tirer un fil entre ces dernières et les pins 3 à 9
 de l'arduino UNO.
 Enfin, vous pouvez refermer la moulure.
