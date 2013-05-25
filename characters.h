@@ -1,3 +1,8 @@
+/* this array was generated from GRL's Data.txt from
+   http://graffitiresearchlab.fr/download/NTQ_Software_v1.0.zip
+   available at 
+   http://www.graffitiresearchlab.fr/?portfolio=near-tag-quality
+ */
 char* characters[] = {" ",
 "........",
 "........",

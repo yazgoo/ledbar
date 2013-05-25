@@ -57,7 +57,6 @@ inclure votre makefile principal ainsi que ledbar.cpp pour afficher votre texte:
 #include "ledbar.c"
 void setup() {
         // initialise la bibliothèque
-        // initialise la bibliothèque
         ledbar_setup();
 }
 void loop()
