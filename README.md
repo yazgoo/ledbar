@@ -7,6 +7,7 @@ appareil photo qui dépasse mes compétences.
 
 Préparation
 -----------
+
 Couper une moulure électrique sur 15, centimètres.
 Avec un forêt du diamètre des diodes, percez les trous à distance égale
 (environ la taille de la petite broche (cathode) de la diode):
@@ -64,3 +65,9 @@ void loop()
         ledbar_write_text(200, "HELLO WORLD");
 }
 ```
+
+Conclusion
+----------
+
+Si vous voulez voir ce que cela donne avec le générateur python,
+voilà [le résultat](http://www.flickr.com/photos/grlfr/8814833084/in/photostream/lightbox/).
