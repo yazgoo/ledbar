@@ -49,7 +49,8 @@ Tout comme pour mon précédent article, j'utilise mon propre makefile.
 J'explique cela sur le [github arduino makefile](https://github.com/yazgoo/arduino-makefile).
 Vous pouvez ensuite cloner mon projet github via un:
 ``github clone https://github.com/yazgoo/ledbar.git``
-Il vous suffit alors de modifier ledbar.cpp pour afficher votre texte:
+Il vous suffit alors de modifier le Makefile pour
+inclure votre makefile principal ainsi que ledbar.cpp pour afficher votre texte:
 
 ```C++
 #include "Arduino.h"
