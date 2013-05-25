@@ -33,7 +33,7 @@ Vous pouvez alimenter votre arduino avec une pile 9 volts.
 Il vous est conseillé de bien fixer le tout (avec du ruban adhésif par exemple).
 
 Code utilisé pour le projet
----------------------------
+-----------
 
 Le code est disponible [sur la page suivante](http://www.graffitiresearchlab.fr/?portfolio=near-tag-quality),
 [ici](http://graffitiresearchlab.fr/download/NTQ_Software_v1.0.zip).
@@ -43,7 +43,7 @@ Vous entrez votre texte, et le script vous génère un sketch arduino correspond
 J'ai néanmoins codé une bibliothèque basique que je présente ci-dessous.
 
 Ledbar
-------
+-----------
 
 Tout comme pour [mon précédent article](http://linuxfr.org/users/yazgoo/journaux/atelier-au-thsf-hacking-de-minitel), j'utilise mon propre makefile.
 J'explique cela sur le [github arduino makefile](https://github.com/yazgoo/arduino-makefile).
@@ -68,7 +68,7 @@ void loop()
 ```
 
 Conclusion
-----------
+-----------
 
 Si vous voulez voir ce que cela donne avec le générateur python,
 voilà [le résultat](http://www.flickr.com/photos/grlfr/8814833084/in/photostream/lightbox/).
