@@ -45,7 +45,7 @@ J'ai néanmoins codé une bibliothèque basique que je présente ci-dessous.
 Ledbar
 ------
 
-Tout comme pour mon précédent article, j'utilise mon propre makefile.
+Tout comme pour [mon précédent article](http://linuxfr.org/users/yazgoo/journaux/atelier-au-thsf-hacking-de-minitel), j'utilise mon propre makefile.
 J'explique cela sur le [github arduino makefile](https://github.com/yazgoo/arduino-makefile).
 Vous pouvez ensuite cloner mon projet github via un:
 ``github clone https://github.com/yazgoo/ledbar.git``
